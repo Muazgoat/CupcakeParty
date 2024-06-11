@@ -14,6 +14,9 @@ The program also ensures that the total number of cupcakes does not exceed 28 by
 2. The program will calculate and display the total number of cupcakes available.
 3. Modify the code or incorporate the CupcakeParty functionality into your own Java projects.
 
+## Resources
+[OpenAI's ChatGPT Documentation](https://openai.com/chatgpt)
+
 ## Author
 
 Muaz Abdulhafiz
